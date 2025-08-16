@@ -1,4 +1,4 @@
-# Amigo Secreto 🎁
+# Challenge-amigo-secreto-alura
 
 Esta aplicación es un sencillo juego de **Amigo Secreto** que permite organizar de manera rápida y divertida el intercambio de regalos entre amigos o familiares.
 
@@ -12,7 +12,6 @@ Esta aplicación es un sencillo juego de **Amigo Secreto** que permite organizar
     - Los nombres añadidos se mostrarán en una lista para que puedas verificar quiénes están participando.
 
 3. **Realizar el Sorteo**:  
-    - Al presionar el botón **"Sortear"**, se asignará aleatoriamente un amigo secreto a cada participante.
+    - Al presionar el botón **"Sortear"**, se asignará aleatoriamente un amigo secreto.
     - El nombre del amigo secreto sorteado se mostrará en **verde**.
 
-¡Disfruta organizando tu intercambio de regalos con esta aplicación! 🎉
