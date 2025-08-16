@@ -54,6 +54,7 @@ function generarNumero(){
 function sortearAmigo(){
     if (amigos.length > 0) {
         let numero = generarNumero();
+        limpiar();
         mostrarAmigos(amigos[numero], "resultado");
         limpiarArray();
         return;
